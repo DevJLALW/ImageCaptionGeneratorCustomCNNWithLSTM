@@ -84,11 +84,6 @@ Below is the workflow diagram:
 - **Optimization**: Adam optimizer with default learning rate
 - **Loss**: Categorical cross-entropy for sequence prediction
 
-## Results and Evaluation
-
-The model achieves the following BLEU scores on the test set:
-- BLEU-1: [Insert actual score]
-- BLEU-2: [Insert actual score]
 
 Training curves show convergence with reduced overfitting through dropout and early stopping.
 
